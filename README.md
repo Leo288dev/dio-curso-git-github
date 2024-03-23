@@ -94,3 +94,13 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+<br>
+📒MATERIAL COMPLEMENTAR<br><br>
+Inserido arquivo PDF com os comandos básicos do Git para facilitar o entendimento. Nele há além dos comandos uma breve descrição de como usá-lo.<br><br>
+📎
+https://github.com/Leo288dev/dio-curso-git-github/tree/main/materiais-de-apoio<br><br>
+
+🖊️CONTRIBUIÇÃO<br>
+
+@Leo288dev
